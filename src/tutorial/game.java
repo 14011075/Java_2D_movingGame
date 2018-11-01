@@ -109,5 +109,6 @@ public class game extends Canvas implements Runnable {
 
 	public static void main(String args[]) {
 		new game();
+		System.out.println("¾È´¨");
 	}
 }
