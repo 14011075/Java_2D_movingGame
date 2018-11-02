@@ -109,6 +109,6 @@ public class game extends Canvas implements Runnable {
 
 	public static void main(String args[]) {
 		new game();
-		System.out.println("안뇽");
+		System.out.println("수우우욱제");
 	}
 }
